@@ -4,7 +4,7 @@ import Container from "../ui/Container";
 const images = [
     "https://res.cloudinary.com/dqusg1diz/image/upload/v1782075630/SushiFlorDeCerezo_zn4sf9.png",
     "https://images.unsplash.com/photo-1553621042-f6e147245754",
-    "https://png.pngtree.com/thumb_back/fh260/background/20240412/pngtree-japanese-food-and-top-view-concept-different-kinds-of-sushi-on-image_15656557.jpg",
+    "https://res.cloudinary.com/dqusg1diz/image/upload/v1782075630/SushiFlorDeCerezo_zn4sf9.png",
     "https://media.istockphoto.com/id/1354366250/es/foto/juego-de-rollos-de-sushi-uramaki-arco-iris-con-aguacate.jpg?s=612x612&w=0&k=20&c=5690maI0BJd7Yk4PdqrcOQOJ6ZUbs8kvSvgg7khN4Dc=",
     "https://images.unsplash.com/photo-1546069901-ba9599a7e63c",
     "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d"
